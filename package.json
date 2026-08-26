@@ -1,0 +1,9 @@
+{
+  "name" : "small-node-app",
+  "version" : "1.0.0",
+  "main" : "app.js", 
+  "script": { 
+    "start": "node app.js"
+    
+  }
+}
